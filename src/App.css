@@ -20,6 +20,7 @@ span {
 
 .selected {
     background-color: darkgray;
+    opacity: 0.5;
     color: #fff;
     cursor: not-allowed;
 }
