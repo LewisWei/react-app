@@ -3,10 +3,14 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "highlight.js": "^9.10.0",
     "react": "^15.5.4",
     "react-dom": "^15.5.4"
   },
   "devDependencies": {
+    "chokidar": "^1.6.1",
+    "npm-run-all": "^4.0.2",
+    "react-docgen": "^2.14.0",
     "react-scripts": "1.0.7"
   },
   "scripts": {
