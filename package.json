@@ -1,15 +1,13 @@
 {
-  "name": "react-app",
+  "name": "learn-to-create-reusable-react-component",
   "version": "0.1.0",
   "private": true,
-  "devDependencies": {
-    "react-scripts": "0.9.5"
-  },
   "dependencies": {
-    "axios": "^0.16.0",
-    "lodash": "^4.17.4",
-    "react": "^15.4.2",
-    "react-dom": "^15.4.2"
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.7"
   },
   "scripts": {
     "start": "react-scripts start",
